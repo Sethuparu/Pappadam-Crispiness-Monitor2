@@ -78,9 +78,10 @@ Tools > Port > [Select COM Port]
 
 # Project Demo
 ## Screenshots
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-13 at 9 49 17 AM3" src="https://github.com/user-attachments/assets/0a90e3dc-5389-45a2-add1-0d901d21b44e" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-13 at 9 49 17 AM2" src="https://github.com/user-attachments/assets/88bae3b1-78c1-4c33-baf0-89a9249722fd" />
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-13 at 9 49 17 AM" src="https://github.com/user-attachments/assets/b66c40ba-33a0-47c5-8ea2-9ddfc0000666" />
+<img width="738" height="1600" alt="3" src="https://github.com/user-attachments/assets/12da5c54-2cb2-4b6a-be5a-665d36d81f79" />
+<img width="738" height="1600" alt="2" src="https://github.com/user-attachments/assets/11f497a3-d2ab-4f96-90d6-16babf415ea0" />
+<img width="738" height="1600" alt="1" src="https://github.com/user-attachments/assets/aa4d648b-4232-4820-977d-303d7e2f89d6" />
+
 
 
 ## Video
